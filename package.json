@@ -1,0 +1,22 @@
+
+{
+  "name": "vue-weblineindia-multiselect",
+  "version": "1.0.0",
+  "description": "> **Everything you wish the HTML `<select>` element could do, wrapped up into a lightweight, zero > dependency, extensible Vue component.**",
+  "main": "./lib/vue-select.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Multiselect-Dropdown",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-multiselect",
+    "select",
+    "multiselect",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ]
+}
